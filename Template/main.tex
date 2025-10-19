@@ -1,0 +1,61 @@
+\documentclass[12pt]{tcc}
+
+% ------------- Configurações -------------
+\input{config/pacotes}
+\input{config/estilos}
+\input{config/cores}
+\input{config/comentarios}
+\input{config/comandos}
+\input{config/acronimos}
+
+% ------------- Informações principais -------------
+\newcommand\dtitle{Interfaces Móveis e Inclusão Digital: Desafios e Soluções de Design Acessível}
+\newcommand\dauthor{Felipe Corrêa Nogueira}
+\newcommand\dadvisor{Eduardo Augusto Ferreira da Silva}
+
+\begin{document}
+\pagenumbering{gobble}
+\pagenumbering{roman}
+
+\dcover
+\dcoverback
+
+% PRECISO REVER ISSO AQUI!!!
+% \includepdf{ficha.pdf}
+\input{pre-textuais/dedicatoria}
+\input{pre-textuais/agradecimentos}
+\input{pre-textuais/epigrafe}
+\input{pre-textuais/resumo}
+\input{pre-textuais/abstract}
+
+% ------------- Sumários -------------
+\tableofcontents
+\newpage
+\listoffigures
+\newpage
+\listoftables
+
+\pagenumbering{arabic}
+\justifying
+
+% --------- Capítulos -------------
+\input{capitulos/1 - Introducao}
+\input{capitulos/2 - Fundamentacao_teorica}
+\input{capitulos/3 - Revisao}
+\input{capitulos/4 - Proposta}
+\input{capitulos/5 - conclusao}
+
+\newcommand{\Extrachap}[1]{\chapter*{#1}\markboth{#1}{#1}%
+\addcontentsline{toc}{chapter}{#1}}
+
+\Extrachap{Referências}
+
+\renewcommand{\bibsection}{}
+\renewcommand{\bibname}{}
+
+\bibliography{references}
+\bibliographystyle{plainnat}
+
+\label{bibfinalpage}
+
+\end{document}
