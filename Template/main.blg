@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Database file #1: references.bib
+Warning--entry type for "g1_acesso_pleno_internet_2022" isn't style-file defined
+--line 12 of file references.bib
+Warning--entry type for "veja_pais_se_digitaliza_2024" isn't style-file defined
+--line 23 of file references.bib
+You've used 3 entries,
+            2773 wiz_defined-function locations,
+            612 strings with 5505 characters,
+and the built_in function-call counts, 1091 in all, are:
+= -- 98
+> -- 41
+< -- 3
++ -- 15
+- -- 12
+* -- 72
+:= -- 172
+add.period$ -- 12
+call.type$ -- 3
+change.case$ -- 13
+chr.to.int$ -- 3
+cite$ -- 6
+duplicate$ -- 50
+empty$ -- 103
+format.name$ -- 17
+if$ -- 228
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 26
+num.names$ -- 12
+pop$ -- 31
+preamble$ -- 1
+purify$ -- 10
+quote$ -- 0
+skip$ -- 41
+stack$ -- 0
+substring$ -- 21
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 33
+warning$ -- 0
+while$ -- 10
+width$ -- 0
+write$ -- 50
+(There were 2 warnings)
