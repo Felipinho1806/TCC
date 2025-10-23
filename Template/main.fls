@@ -560,15 +560,19 @@ INPUT .\capitulos\1 - Introducao.tex
 INPUT capitulos\1 - Introducao.tex
 INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
-INPUT .\imagens\cefet.png
-INPUT .\imagens\cefet.png
-INPUT .\imagens\cefet.png
-INPUT .\imagens\cefet.png
-INPUT .\imagens\cefet.png
-INPUT .\imagens\cefet.png
-INPUT .\imagens\cefet.png
+INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
 INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
 INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT .\imagens\cefet.png
+INPUT .\imagens\cefet.png
+INPUT .\imagens\cefet.png
+INPUT .\imagens\cefet.png
+INPUT .\imagens\cefet.png
+INPUT .\imagens\cefet.png
+INPUT .\imagens\cefet.png
 INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
@@ -578,12 +582,12 @@ INPUT .\tabelas\tabela.tex
 INPUT .\tabelas\tabela.tex
 INPUT .\tabelas\tabela.tex
 INPUT tabelas\tabela.tex
+INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT .\capitulos\2 - Fundamentacao_teorica.tex
 INPUT .\capitulos\2 - Fundamentacao_teorica.tex
 INPUT .\capitulos\2 - Fundamentacao_teorica.tex
 INPUT .\capitulos\2 - Fundamentacao_teorica.tex
 INPUT capitulos\2 - Fundamentacao_teorica.tex
-INPUT C:\Users\moasc\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT .\capitulos\3 - Revisao.tex
 INPUT .\capitulos\3 - Revisao.tex
 INPUT .\capitulos\3 - Revisao.tex
