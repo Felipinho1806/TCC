@@ -1,0 +1,91 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Brasil}(2003)]{estatuto_idoso}
+{Brasil}.
+\newblock Lei n.º 10.741, de 1.º de outubro de 2003 - estatuto do idoso.
+\newblock \url{https://www.planalto.gov.br/ccivil_03/Leis/2003/L10.741.htm},
+  2003.
+\newblock Diário Oficial da União, Seção 1. Acesso em: 28 outubro. 2025.
+
+\bibitem[{EBANX}(2025)]{ebanx_pix_5anos_2025}
+{EBANX}.
+\newblock Pix se aproximará de 8 bilhões de transações por mês no
+  aniversário de 5 anos, aponta estudo do ebanx.
+\newblock
+  \url{https://business.ebanx.com/en/press-room/press-releases/pix-se-aproximara-de-8-bilhoes-de-transacoes-por-mes-no-aniversario-de-5-anos-aponta-estudo-do-ebanx},
+  2025.
+\newblock EBANX, 14 nov. 2025. Acesso em: 15 nov. 2025.
+
+\bibitem[{IBGE}(2022)]{ibge2022}
+{IBGE}.
+\newblock Número de idosos na população do país cresceu 57,4\% em 12 anos.
+\newblock Censo Demográfico 2022, Agência de Notícias IBGE, 2022.
+\newblock Disponível em:
+  \url{https://censo2022.ibge.gov.br/noticias-por-estado/38186-censo-2022-numero-de-idosos-na-populacao-do-pais-cresceu-57-4-em-12-anos}.
+  Acesso em: 28 out. 2025.
+
+\bibitem[{IBGE - Instituto Brasileiro de Geografia e
+  Estatística}(2023)]{ibge_internet_2023}
+{IBGE - Instituto Brasileiro de Geografia e Estatística}.
+\newblock Internet foi acessada em 72,5 milhões de domicílios do país em
+  2023.
+\newblock
+  \url{https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/41024-internet-foi-acessada-em-72-5-milhoes-de-domicilios-do-pais-em-2023},
+  2023.
+\newblock Acesso em: 28 out. 2025.
+
+\bibitem[{IBGE - Instituto Brasileiro de Geografia e
+  Estatística}(2025)]{ibge_tic_2025}
+{IBGE - Instituto Brasileiro de Geografia e Estatística}.
+\newblock Pela primeira vez, mais da metade da população acessa a internet
+  pela tv; acesso a bancos e instituições financeiras cresceu 22 milhões de
+  usuários de 2022 a 2024.
+\newblock
+  \url{https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44033-pela-primeira-vez-mais-da-metade-da-populacao-acessa-a-internet-pela-tv},
+  2025.
+\newblock Agência de Notícias IBGE, 24 jul. 2025. Acesso em: 15 nov. 2025.
+
+\bibitem[Kachar(2010)]{kachar2010}
+Vitória Kachar.
+\newblock Envelhecimento e perspectivas de inclusão digital.
+\newblock \emph{Revista Kairós Gerontologia}, 13:\penalty0 131--148, nov 2010.
+
+\bibitem[Petrov{\v{c}}i{\v{c}} et~al.(2018)Petrov{\v{c}}i{\v{c}}, Taipale,
+  Rogelj, and Van~der]{Petrovcic2018}
+A.~Petrov{\v{c}}i{\v{c}}, S.~Taipale, A.~Rogelj, and D.~Van~der.
+\newblock Design of mobile phones for older adults: An empirical analysis of
+  design guidelines and checklists for feature phones and smartphones.
+\newblock \emph{International Journal of Human–Computer Interaction},
+  34\penalty0 (3):\penalty0 251--264, 2018.
+\newblock \doi{10.1080/10447318.2017.1345142}.
+\newblock Acesso em: 28 outubro. 2024.
+
+\bibitem[Santos et~al.(2023)Santos, Rodrigues, and Ribeiro]{santos2023}
+S.~d.~O. Santos, A.~B. A.~M. Rodrigues, and Í. M. d.~S. Ribeiro.
+\newblock Usability evaluation of mobile banking applications in the context of
+  the elderly in a city of ceará.
+\newblock In \emph{Proceedings of the XXII Brazilian Symposium on Human Factors
+  in Computing Systems}, pages 1--11, [S. l.], 2023. s. n.
+
+\bibitem[Trevisan et~al.(2025)Trevisan, Gonzalez, Diniz, and
+  Cernev]{fgv_geografia_pix_2025}
+F.~M. Trevisan, L.~Gonzalez, E.~H. Diniz, and A.~Cernev.
+\newblock Geografia do pix: Análise descritiva das transações pix por
+  município no ano de 2024.
+\newblock
+  \url{https://portal.fgv.br/sites/default/files/uploads/geografia_do_pix_completo.pdf},
+  2025.
+\newblock Centro de Estudos de Microfinanças e Inclusão Financeira
+  (FGVcemif), FGV EAESP. Acesso em: 15 nov. 2025.
+
+\bibitem[Weiss(2019)]{Weiss2019}
+M.~C. Weiss.
+\newblock Sociedade sensoriada: a sociedade da transformação digital.
+\newblock \emph{Estudos Avançados}, 33\penalty0 (95):\penalty0 203--214, 2019.
+
+\end{thebibliography}
