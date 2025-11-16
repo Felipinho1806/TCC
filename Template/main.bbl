@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{15}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -11,6 +11,15 @@
 \newblock \url{https://www.planalto.gov.br/ccivil_03/Leis/2003/L10.741.htm},
   2003.
 \newblock Diário Oficial da União, Seção 1. Acesso em: 28 outubro. 2025.
+
+\bibitem[{Brasil}(2012)]{lei_mobilidade_urbana_2012}
+{Brasil}.
+\newblock Lei n.º 12.587, de 3 de janeiro de 2012 – institui as diretrizes
+  da política nacional de mobilidade urbana.
+\newblock
+  \url{https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12587.htm},
+  2012.
+\newblock Diário Oficial da União. Acesso em: 15 nov. 2025.
 
 \bibitem[{EBANX}(2025)]{ebanx_pix_5anos_2025}
 {EBANX}.
@@ -55,6 +64,19 @@ Vitória Kachar.
 \newblock Envelhecimento e perspectivas de inclusão digital.
 \newblock \emph{Revista Kairós Gerontologia}, 13:\penalty0 131--148, nov 2010.
 
+\bibitem[Moura(2019)]{moura2019}
+A.~A.~F. Moura.
+\newblock Mobilidade urbana e envelhecimento: desafios enfrentados por idosos
+  no transporte público.
+\newblock \url{https://bdtd.ucb.br:8443/jspui/handle/tede/3710}, 2019.
+\newblock Acesso em: 15 nov. 2025.
+
+\bibitem[Moura and Freitas(2023)]{moura_freitas_2023}
+Abrahão Faiad~de Moura and E.~Rezende Freitas.
+\newblock Etarismo no transporte público: vivências de passageiros idosos.
+\newblock \emph{Revista Envelhecer}, 2023.
+\newblock Acesso em: 15 nov. 2025.
+
 \bibitem[Petrov{\v{c}}i{\v{c}} et~al.(2018)Petrov{\v{c}}i{\v{c}}, Taipale,
   Rogelj, and Van~der]{Petrovcic2018}
 A.~Petrov{\v{c}}i{\v{c}}, S.~Taipale, A.~Rogelj, and D.~Van~der.
@@ -64,6 +86,23 @@ A.~Petrov{\v{c}}i{\v{c}}, S.~Taipale, A.~Rogelj, and D.~Van~der.
   34\penalty0 (3):\penalty0 251--264, 2018.
 \newblock \doi{10.1080/10447318.2017.1345142}.
 \newblock Acesso em: 28 outubro. 2024.
+
+\bibitem[Santos et~al.(2009)Santos, Andrade, and Bueno]{santos2009}
+F.~H. Santos, V.~M. Andrade, and O.~F.~A. Bueno.
+\newblock Envelhecimento: um processo multifatorial.
+\newblock \emph{Psicologia em Estudo}, 14\penalty0 (1):\penalty0 3--10, 2009.
+
+\bibitem[Santos et~al.(2017)Santos, Silva, Velloza, and
+  Pompeu]{santos2017_acessibilidade_transporte}
+Michelle Didone~dos Santos, Marcela~Fernandes Silva, Leonardo~Antunes Velloza,
+  and José~Eduardo Pompeu.
+\newblock Falta de acessibilidade no transporte público e inadequação de
+  calçadas: efeitos na participação social de pessoas idosas com
+  limitações funcionais.
+\newblock \emph{Revista Brasileira de Geriatria e Gerontologia}, 20\penalty0
+  (2):\penalty0 161--174, 2017.
+\newblock \doi{10.1590/1981-22562017020.160090}.
+\newblock Acesso em: 15 nov. 2025.
 
 \bibitem[Santos et~al.(2023)Santos, Rodrigues, and Ribeiro]{santos2023}
 S.~d.~O. Santos, A.~B. A.~M. Rodrigues, and Í. M. d.~S. Ribeiro.

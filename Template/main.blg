@@ -5,46 +5,48 @@ Reallocating 'name_of_file' (item size: 1) to 11 items.
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: plainnat.bst
 Database file #1: references.bib
+Warning--entry type for "moura2019" isn't style-file defined
+--line 111 of file references.bib
 Warning--I didn't find a database entry for "8890660"
-You've used 10 entries,
+You've used 15 entries,
             2773 wiz_defined-function locations,
-            660 strings with 7717 characters,
-and the built_in function-call counts, 3932 in all, are:
-= -- 361
-> -- 178
-< -- 8
-+ -- 64
-- -- 54
-* -- 262
-:= -- 609
-add.period$ -- 39
-call.type$ -- 10
-change.case$ -- 48
-chr.to.int$ -- 10
-cite$ -- 20
-duplicate$ -- 181
-empty$ -- 361
-format.name$ -- 64
-if$ -- 836
+            692 strings with 8956 characters,
+and the built_in function-call counts, 5968 in all, are:
+= -- 548
+> -- 288
+< -- 11
++ -- 102
+- -- 87
+* -- 412
+:= -- 928
+add.period$ -- 59
+call.type$ -- 15
+change.case$ -- 74
+chr.to.int$ -- 15
+cite$ -- 30
+duplicate$ -- 272
+empty$ -- 534
+format.name$ -- 104
+if$ -- 1262
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 4
-newline$ -- 66
-num.names$ -- 40
-pop$ -- 115
+missing$ -- 7
+newline$ -- 96
+num.names$ -- 60
+pop$ -- 168
 preamble$ -- 1
-purify$ -- 38
+purify$ -- 59
 quote$ -- 0
-skip$ -- 137
+skip$ -- 208
 stack$ -- 0
-substring$ -- 110
-swap$ -- 16
+substring$ -- 161
+swap$ -- 21
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 110
+type$ -- 165
 warning$ -- 0
-while$ -- 38
+while$ -- 57
 width$ -- 0
-write$ -- 149
-(There was 1 warning)
+write$ -- 221
+(There were 2 warnings)
