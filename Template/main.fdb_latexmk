@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1763336737.80631 "main.aux" "main.bbl" "main" 1763336742.40178 0
-  "./references.bib" 1763336679 5828 56b7a34ca82920919841f330f0738e88 ""
+["bibtex main"] 1763345810.57542 "main.aux" "main.bbl" "main" 1763345914.70494 0
+  "./references.bib" 1763344781 6290 fb787296f636536b79d7ca531a337843 ""
   "C:/Users/moasc/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/plainnat.bst" 1284455456 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "main.aux" 1763336741 5433 fd13c8a7a35eebfe5ebdadec06c5a59a "pdflatex"
+  "main.aux" 1763345913 6118 a0f1b6be34b3d856705d405d54d8fa6a "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1763336738.20176 "c:/Users/moasc/OneDrive/Área de Trabalho/TCC-main/Template/main.tex" "main.pdf" "main" 1763336742.40248 0
+["pdflatex"] 1763345910.3496 "c:/Users/moasc/OneDrive/Área de Trabalho/TCC-main/Template/main.tex" "main.pdf" "main" 1763345914.70586 0
   "C:/Users/moasc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1760914212 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/moasc/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk" 1761007385 24152 cd34143322647daa1eac9ea0fe33d45f ""
   "C:/Users/moasc/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1760914205 13321623 e3b22ebf27a0f3f8066a9cade6a1ba8c ""
@@ -293,7 +293,7 @@
   "C:/Users/moasc/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "c:/Users/moasc/OneDrive/Área de Trabalho/TCC-main/Template/main.tex" 1763213686 1528 48e2c55c99ef07098d7ebdfa72276f46 ""
   "capitulos/1 - Introducao.tex" 1763236418 7134 13b88ef8ffca9596d0c685efbf7843d7 ""
-  "capitulos/2 - Fundamentacao_teorica.tex" 1763336727 4605 c03deb9d4b3783ac9c1ae38eb1120058 ""
+  "capitulos/2 - Fundamentacao_teorica.tex" 1763345908 6737 01945650e0dea06e9a75593d628ba1b3 ""
   "capitulos/3 - Revisao.tex" 1760909288 77 c3670c60b99657a870b225a04d8dfedc ""
   "capitulos/4 - Proposta.tex" 1760909288 39 8f1025e389e42ce66a4b18e64f94cb1f ""
   "capitulos/5 - conclusao.tex" 1761650659 43 9da2a6fce8c6c8aaced6bcdaf4488237 ""
@@ -303,16 +303,17 @@
   "config/cores.tex" 1760909288 275 eb1df5f462296740550727e4ac2d4792 ""
   "config/estilos.tex" 1760909288 2350 b2b2ccb4be517d58cdf1be08bf3dc4ba ""
   "config/pacotes.tex" 1760909288 529 ce69579a5589a42885a5c0ab7861f75d ""
+  "imagens/Captura-de-tela-2025-11-16-210821.png" 1763342860 347802 3610e080f8d12a18c3b7cefde6b6483c ""
   "imagens/cefet.png" 1760909288 5473 59671a0f1a98350f2c3a57151b2dbed0 ""
   "imagens/graficos_censo_sexo_idade-faixas-populacionais-final.png" 1761648687 49251 6654971ff46340ae53a66b7f911f88e5 ""
   "imagens/mapa.png" 1763222652 36728 36fe9e563794eb9d95356158e2611741 ""
-  "main.aux" 1763336741 5433 fd13c8a7a35eebfe5ebdadec06c5a59a "pdflatex"
-  "main.bbl" 1763336738 6053 139a1aa475cb84cd70d7a19f2022a147 "bibtex main"
-  "main.lof" 1763336741 591 76c2e22de698964a1350514c5e25eb78 "pdflatex"
-  "main.lot" 1763336741 226 941f5606a0c014e95b2b2cb33c2ed2ae "pdflatex"
-  "main.out" 1763336741 1235 16a4b51329fd2ea87e6e377c9ddda8b0 "pdflatex"
+  "main.aux" 1763345913 6118 a0f1b6be34b3d856705d405d54d8fa6a "pdflatex"
+  "main.bbl" 1763345810 6507 f9fdb3d90cc65cd6966b3144d5c62e4d "bibtex main"
+  "main.lof" 1763345913 743 7cc669ca6db9e689bb0020a986dc52b3 "pdflatex"
+  "main.lot" 1763345913 226 941f5606a0c014e95b2b2cb33c2ed2ae "pdflatex"
+  "main.out" 1763345913 1387 39ee50b78b6176795576f29ab451d445 "pdflatex"
   "main.tex" 1763213686 1528 48e2c55c99ef07098d7ebdfa72276f46 ""
-  "main.toc" 1763336741 667 d04adbca9fdeb5edacb0bae6f015b142 "pdflatex"
+  "main.toc" 1763345913 748 b5aa0fa7afd4c7a597ec442cf28a90e8 "pdflatex"
   "pre-textuais/abstract.tex" 1760909288 65 75059ae0dd1dc89b713677d95333abac ""
   "pre-textuais/agradecimentos.tex" 1760909288 45 8f9a44c6615192281234bd592ff0eb16 ""
   "pre-textuais/dedicatoria.tex" 1760909288 51 9193911d2aa1d9be6e24c4df805467c1 ""

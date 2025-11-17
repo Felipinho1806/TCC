@@ -8,45 +8,45 @@ Database file #1: references.bib
 Warning--entry type for "moura2019" isn't style-file defined
 --line 111 of file references.bib
 Warning--I didn't find a database entry for "8890660"
-You've used 15 entries,
+You've used 17 entries,
             2773 wiz_defined-function locations,
-            692 strings with 8956 characters,
-and the built_in function-call counts, 5968 in all, are:
-= -- 548
-> -- 288
-< -- 11
-+ -- 102
-- -- 87
-* -- 412
-:= -- 928
-add.period$ -- 59
-call.type$ -- 15
-change.case$ -- 74
-chr.to.int$ -- 15
-cite$ -- 30
-duplicate$ -- 272
-empty$ -- 534
-format.name$ -- 104
-if$ -- 1262
+            701 strings with 9197 characters,
+and the built_in function-call counts, 6574 in all, are:
+= -- 604
+> -- 308
+< -- 13
++ -- 110
+- -- 93
+* -- 438
+:= -- 1022
+add.period$ -- 67
+call.type$ -- 17
+change.case$ -- 82
+chr.to.int$ -- 17
+cite$ -- 34
+duplicate$ -- 302
+empty$ -- 598
+format.name$ -- 112
+if$ -- 1394
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 7
-newline$ -- 96
-num.names$ -- 60
-pop$ -- 168
+newline$ -- 108
+num.names$ -- 68
+pop$ -- 192
 preamble$ -- 1
-purify$ -- 59
+purify$ -- 65
 quote$ -- 0
-skip$ -- 208
+skip$ -- 232
 stack$ -- 0
-substring$ -- 161
-swap$ -- 21
+substring$ -- 165
+swap$ -- 23
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 165
+type$ -- 187
 warning$ -- 0
-while$ -- 57
+while$ -- 63
 width$ -- 0
-write$ -- 221
+write$ -- 249
 (There were 2 warnings)
