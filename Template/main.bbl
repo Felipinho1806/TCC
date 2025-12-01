@@ -1,9 +1,36 @@
-\begin{thebibliography}{17}
+\begin{thebibliography}{19}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bourne et~al.(2022)Bourne, Cicinelli, Sedighi, Tapply, McCormick,
+  Jonas, Congdon, Ramke, Naidoo, Fricke, Burton, Müller, Bikbov, Furtado,
+  Kyari, He, Wang, Vijaya, Nangia, Brian, Emamian, Fotouhi, Hashemi, Khandekar,
+  Marmamula, Salomão, George, Kazakbaeva, Braithwaite, Casson, Iwase, Gupta,
+  Abdianwall, Varma, Wong, Wang, Taylor, Flaxman, Keel, Resnikoff, Bron, Cheng,
+  Fernandes, Friedman, Gazzard, Kahloun, Kempen, Khairallah, Lansingh, and
+  Sitorus]{bourne2022}
+Rupert Richard~Alexander Bourne, Maria~Vittoria Cicinelli, Tabassom Sedighi,
+  Ian~H. Tapply, Ian McCormick, Jost~B. Jonas, Nathan~G. Congdon, Jacqueline
+  Ramke, Kovin~S. Naidoo, Timothy~R. Fricke, Matthew~J. Burton, Andreas
+  Müller, Mukharram~M. Bikbov, João~M. Furtado, Fatima Kyari, Mingguang He,
+  Ya~Xing Wang, Lingam Vijaya, Vinay Nangia, Garry Brian, Mohammad~Hassan
+  Emamian, Akbar Fotouhi, Hassan Hashemi, Rajiv~B. Khandekar, Srinivas
+  Marmamula, Solange Salomão, Ronnie George, Gyulli Kazakbaeva, Tasanee
+  Braithwaite, Robert~J. Casson, Aiko Iwase, Noopur Gupta, Mohammad~H.
+  Abdianwall, Rohit Varma, Tien~Y. Wong, Ningli Wang, Hugh~R. Taylor, Seth~R.
+  Flaxman, Stuart Keel, Serge Resnikoff, Alain Bron, Ching-Yu Cheng, Arthur
+  Fernandes, David Friedman, Andrew Gazzard, Rim Kahloun, John Kempen, Moncef
+  Khairallah, Van~C. Lansingh, and Rita~S. Sitorus.
+\newblock Effective refractive error coverage in adults aged 50 years and
+  older: estimates from population-based surveys in 61 countries.
+\newblock \emph{The Lancet Global Health}, 10\penalty0 (12):\penalty0
+  e1754--e1763, 2022.
+\newblock \doi{10.1016/S2214-109X(22)00433-8}.
+\newblock URL
+  \url{https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(22)00433-8/fulltext}.
 
 \bibitem[{Bradesco}(2025)]{bradesco_app_2025}
 {Bradesco}.
@@ -124,6 +151,16 @@ S.~d.~O. Santos, A.~B. A.~M. Rodrigues, and Í. M. d.~S. Ribeiro.
   the elderly in a city of ceará.
 \newblock In \emph{Proceedings of the XXII Brazilian Symposium on Human Factors
   in Computing Systems}, pages 1--11, [S. l.], 2023. s. n.
+
+\bibitem[Silva and Zárate(2025)]{sbbd_estendido}
+Anna Silva and Luis~E. Zárate.
+\newblock Caracterização da população brasileira que sofre de
+  catarata-hipertensão - um estudo baseado na base de dados pns 2019.
+\newblock In \emph{Anais Estendidos do XL Simpósio Brasileiro de Bancos de
+  Dados}, pages 272--281, Porto Alegre, RS, Brasil, 2025. SBC.
+\newblock \doi{10.5753/sbbd_estendido.2025.247896}.
+\newblock URL
+  \url{https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/37602}.
 
 \bibitem[Trevisan et~al.(2025)Trevisan, Gonzalez, Diniz, and
   Cernev]{fgv_geografia_pix_2025}
