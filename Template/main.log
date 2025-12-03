@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.1)  2 DEC 2025 22:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.1)  2 DEC 2025 22:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1841,7 +1841,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [17]
-runsystem(latexminted cleantemp  --timestamp 20251202223723 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
+runsystem(latexminted cleantemp  --timestamp 20251202223846 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
 
  (main.aux)
  ***********
@@ -1860,7 +1860,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  93i,11n,104p,1356b,682s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\fcnfe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/fcnfe/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/fcnfe/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/fcnfe/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (26 pages, 437625 bytes).
+Output written on main.pdf (26 pages, 437613 bytes).
 PDF statistics:
  375 PDF objects out of 1000 (max. 8388607)
  61 named destinations out of 1000 (max. 500000)
