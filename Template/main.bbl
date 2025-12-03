@@ -1,9 +1,18 @@
-\begin{thebibliography}{20}
+\begin{thebibliography}{23}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Batista(2025)]{batista2025}
+Maria Gabriele~Bezerra Batista.
+\newblock Uso do governo eletrônico na zona rural e urbana: desafios no
+  contexto brasileiro.
+\newblock Trabalho de Conclusão de Curso (Bacharelado em Gestão Pública) --
+  Universidade Federal da Paraíba, 2025.
+\newblock URL \url{https://repositorio.ufpb.br/jspui/handle/123456789/34838}.
+\newblock Acesso em: 2 dez. 2025.
 
 \bibitem[Bourne et~al.(2022)Bourne, Cicinelli, Sedighi, Tapply, McCormick,
   Jonas, Congdon, Ramke, Naidoo, Fricke, Burton, Müller, Bikbov, Furtado,
@@ -70,6 +79,13 @@ Brasil.
   \url{https://business.ebanx.com/en/press-room/press-releases/pix-se-aproximara-de-8-bilhoes-de-transacoes-por-mes-no-aniversario-de-5-anos-aponta-estudo-do-ebanx},
   2025.
 \newblock EBANX, 14 nov. 2025. Acesso em: 15 nov. 2025.
+
+\bibitem[Federal(2014)]{emag2014}
+Brasil.~Governo Federal.
+\newblock Modelo de acessibilidade em governo eletrônico (emag).
+\newblock Site do Governo Eletrônico, 2014.
+\newblock URL \url{https://emag.governoeletronico.gov.br}.
+\newblock Acesso em: 02 dez. 2025.
 
 \bibitem[{Forbes Brasil}(2021)]{forbes_nubank_2021}
 {Forbes Brasil}.
@@ -185,5 +201,16 @@ F.~M. Trevisan, L.~Gonzalez, E.~H. Diniz, and A.~Cernev.
 M.~C. Weiss.
 \newblock Sociedade sensoriada: a sociedade da transformação digital.
 \newblock \emph{Estudos Avançados}, 33\penalty0 (95):\penalty0 203--214, 2019.
+
+\bibitem[Xavier and Fujino(2024)]{xavier2024}
+J.~F.~B. Xavier and A.~Fujino.
+\newblock Governo eletr{\^o}nico e o direito de acesso {\`a} informa{\c
+  c}{\~a}o pelo cidad{\~a}o.
+\newblock \emph{Boletim de Conjuntura (BOCA)}, 17\penalty0 (50):\penalty0
+  305--329, 2024.
+\newblock \doi{10.5281/zenodo.10681692}.
+\newblock URL
+  \url{https://revista.ioles.com.br/boca/index.php/revista/article/view/3423}.
+\newblock Acesso em: 2 dez. 2025.
 
 \end{thebibliography}
