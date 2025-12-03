@@ -8,7 +8,7 @@
 \contentsline {subsubsection}{Modelo de Acessibilidade em Governo Eletrônico - eMAG}{10}{figure.caption.5}%
 \contentsline {subsubsection}{Web Content Accessibility Guidelines - WCAG}{11}{figure.caption.7}%
 \contentsline {subsection}{\numberline {2.2.1}Conceitos utilizados}{12}{subsection.2.2.1}%
-\contentsline {chapter}{\numberline {3}Revisão da Literatura / Trabalhos Relacionados}{13}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Proposta}{14}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Conclusão}{15}{chapter.5}%
-\contentsline {chapter}{Referências}{16}{chapter*.8}%
+\contentsline {chapter}{\numberline {3}Revisão da Literatura / Trabalhos Relacionados}{14}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Proposta}{15}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusão}{16}{chapter.5}%
+\contentsline {chapter}{Referências}{17}{chapter*.8}%

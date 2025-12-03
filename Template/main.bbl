@@ -1,4 +1,4 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{27}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -71,6 +71,22 @@ Brasil.
   \url{https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm}.
 \newblock Art. 74.
 
+\bibitem[Consortium(2023)]{wcag22}
+W3C — World Wide~Web Consortium.
+\newblock Web content accessibility guidelines (wcag) 2.2 — use of color.
+\newblock Recomendação W3C, 2023.
+\newblock URL \url{https://www.w3.org/TR/WCAG22/#use-of-color}.
+\newblock Acesso em: DD mon. 2025.
+
+\bibitem[das Neves(2025)]{anaSofia2025}
+Ana Sofia Coelho~Mendes das Neves.
+\newblock O impacto da conformidade com as wcag no acesso de indivíduos com
+  deficiência visual a websites: reformulação do website da asm climinha.
+\newblock Trabalho de Projeto (Mestrado em Design e Projetos para a Cultura
+  Digital) — ESMAD, Instituto Politécnico do Porto, 2025.
+\newblock URL \url{https://recipp.ipp.pt/handle/10400.22/25021}.
+\newblock Acesso em: 03 dez. 2025.
+
 \bibitem[{EBANX}(2025)]{ebanx_pix_5anos_2025}
 {EBANX}.
 \newblock Pix se aproximará de 8 bilhões de transações por mês no
@@ -129,6 +145,13 @@ Vitória Kachar.
 \newblock Envelhecimento e perspectivas de inclusão digital.
 \newblock \emph{Revista Kairós Gerontologia}, 13:\penalty0 131--148, nov 2010.
 
+\bibitem[Loiola(2025)]{loiola2025}
+Mateus~Gonçalves Loiola.
+\newblock Adoção da acessibilidade na web: desafios e práticas dos
+  profissionais de ti frente às diretrizes wcag 2.2, 2025.
+\newblock Trabalho de Conclusão de Curso (Graduação em Engenharia de
+  Software) -- Universidade Federal do Ceará, Campus de Quixadá.
+
 \bibitem[Moura(2019)]{moura2019}
 A.~A.~F. Moura.
 \newblock Mobilidade urbana e envelhecimento: desafios enfrentados por idosos
@@ -141,6 +164,16 @@ Abrahão Faiad~de Moura and E.~Rezende Freitas.
 \newblock Etarismo no transporte público: vivências de passageiros idosos.
 \newblock \emph{Revista Envelhecer}, 2023.
 \newblock Acesso em: 15 nov. 2025.
+
+\bibitem[{MWPT – Movimento Web para Todos}(2022)]{mwpt2022}
+{MWPT – Movimento Web para Todos}.
+\newblock Número de sites brasileiros aprovados em todos os testes de
+  acessibilidade tem queda em relação ao ano passado e é ainda menor que
+  1\%.
+\newblock Site, jun 2022.
+\newblock URL
+  \url{https://mwpt.com.br/numero-de-sites-brasileiros-aprovados-em-todos-os-testes-de-acessibilidade-tem-queda-em-relacao-ao-ano-passado-e-e-ainda-menor-que-1/}.
+\newblock Acesso em: 02 dez. 2025.
 
 \bibitem[Petrov{\v{c}}i{\v{c}} et~al.(2018)Petrov{\v{c}}i{\v{c}}, Taipale,
   Rogelj, and Van~der]{Petrovcic2018}
