@@ -1,4 +1,4 @@
-\begin{thebibliography}{19}
+\begin{thebibliography}{20}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -53,6 +53,14 @@ Rupert Richard~Alexander Bourne, Maria~Vittoria Cicinelli, Tabassom Sedighi,
   \url{https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12587.htm},
   2012.
 \newblock Diário Oficial da União. Acesso em: 15 nov. 2025.
+
+\bibitem[Brasil(2015)]{lei13146}
+Brasil.
+\newblock Lei brasileira de inclusão da pessoa com deficiência.
+\newblock Diário Oficial da União, 2015.
+\newblock URL
+  \url{https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm}.
+\newblock Art. 74.
 
 \bibitem[{EBANX}(2025)]{ebanx_pix_5anos_2025}
 {EBANX}.
