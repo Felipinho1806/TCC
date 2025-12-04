@@ -1,4 +1,4 @@
-\begin{thebibliography}{27}
+\begin{thebibliography}{32}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -71,6 +71,14 @@ Brasil.
   \url{https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm}.
 \newblock Art. 74.
 
+\bibitem[Community(2025)]{figma_comunidade_website_project}
+Figma Community.
+\newblock My website project.
+\newblock Figma Community, 2025.
+\newblock URL
+  \url{https://www.figma.com/pt-br/comunidade/file/1079192351397267631/my-website-project}.
+\newblock Acesso em: 03 dez. 2025.
+
 \bibitem[Consortium(2023)]{wcag22}
 W3C — World Wide~Web Consortium.
 \newblock Web content accessibility guidelines (wcag) 2.2 — use of color.
@@ -102,6 +110,20 @@ Brasil.~Governo Federal.
 \newblock Site do Governo Eletrônico, 2014.
 \newblock URL \url{https://emag.governoeletronico.gov.br}.
 \newblock Acesso em: 02 dez. 2025.
+
+\bibitem[Figma(2023)]{figma2023}
+Figma.
+\newblock Figma: o que é, por que usar e principais funcionalidades.
+\newblock Website, 2023.
+\newblock URL \url{https://pm3.com.br/blog/figma/}.
+\newblock Acesso em: 03 dez. 2025.
+
+\bibitem[Figma(2024)]{figma2024}
+Figma.
+\newblock Pense grande. crie mais rápido.
+\newblock Website, 2024.
+\newblock URL \url{https://www.figma.com/ptbr/}.
+\newblock Acesso em: 03 dez. 2025.
 
 \bibitem[{Forbes Brasil}(2021)]{forbes_nubank_2021}
 {Forbes Brasil}.
@@ -175,6 +197,14 @@ Abrahão Faiad~de Moura and E.~Rezende Freitas.
   \url{https://mwpt.com.br/numero-de-sites-brasileiros-aprovados-em-todos-os-testes-de-acessibilidade-tem-queda-em-relacao-ao-ano-passado-e-e-ainda-menor-que-1/}.
 \newblock Acesso em: 02 dez. 2025.
 
+\bibitem[{National Digital Inclusion Alliance
+  (NDIA)}(2025)]{digitalinclusionweek2025}
+{National Digital Inclusion Alliance (NDIA)}.
+\newblock Digital inclusion week 2025.
+\newblock Site institucional, 2025.
+\newblock URL \url{https://www.digitalinclusion.org/diw2025/}.
+\newblock Acesso em: 03 dez. 2025.
+
 \bibitem[Petrov{\v{c}}i{\v{c}} et~al.(2018)Petrov{\v{c}}i{\v{c}}, Taipale,
   Rogelj, and Van~der]{Petrovcic2018}
 A.~Petrov{\v{c}}i{\v{c}}, S.~Taipale, A.~Rogelj, and D.~Van~der.
@@ -184,6 +214,14 @@ A.~Petrov{\v{c}}i{\v{c}}, S.~Taipale, A.~Rogelj, and D.~Van~der.
   34\penalty0 (3):\penalty0 251--264, 2018.
 \newblock \doi{10.1080/10447318.2017.1345142}.
 \newblock Acesso em: 28 outubro. 2024.
+
+\bibitem[{Portugal Digital}(2022)]{eusoudigital_pt}
+{Portugal Digital}.
+\newblock Eu sou digital.
+\newblock Site institucional, 2022.
+\newblock URL
+  \url{https://digital.gov.pt/estrategias/plano-de-acao-para-a-transicao-digital/01-capacitacao-e-inclusao-digital-das-pessoas/eu-sou-digital}.
+\newblock Acesso em: 03 dez. 2025.
 
 \bibitem[Santos et~al.(2009)Santos, Andrade, and Bueno]{santos2009}
 F.~H. Santos, V.~M. Andrade, and O.~F.~A. Bueno.
