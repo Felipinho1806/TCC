@@ -1,4 +1,4 @@
-\begin{thebibliography}{32}
+\begin{thebibliography}{34}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -71,6 +71,18 @@ Brasil.
   \url{https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm}.
 \newblock Art. 74.
 
+\bibitem[Camelo et~al.(2023)Camelo, Silva, Lima, Sousa, Santos, and
+  Mota]{CAPAIHC}
+Lucas Camelo, Ingrid Silva, João Lima, Bruno Sousa, Suzane Santos, and
+  Marcelle Mota.
+\newblock Investigando a acessibilidade nos currículos de cursos de ensino
+  superior em computação no brasil.
+\newblock In \emph{Anais do II Workshop em Culturas, Alteridades e
+  Participações em IHC}, pages 44--49, Porto Alegre, RS, Brasil, 2023. SBC.
+\newblock \doi{10.5753/capaihc.2023.236542}.
+\newblock URL
+  \url{https://sol.sbc.org.br/index.php/capaihc/article/view/26884}.
+
 \bibitem[Community(2025)]{figma_comunidade_website_project}
 Figma Community.
 \newblock My website project.
@@ -85,6 +97,17 @@ W3C — World Wide~Web Consortium.
 \newblock Recomendação W3C, 2023.
 \newblock URL \url{https://www.w3.org/TR/WCAG22/#use-of-color}.
 \newblock Acesso em: DD mon. 2025.
+
+\bibitem[Correa et~al.(2023)Correa, Teixeira, Portilho, Junior, and
+  Aranha]{wei}
+Ryan Correa, Nathalia Teixeira, Filipe Portilho, Cleon~Pereira Junior, and
+  Renan Aranha.
+\newblock A formação em computação e a (falta de) acessibilidade em
+  sistemas computacionais: acaso ou resultado?
+\newblock In \emph{Anais do XXXI Workshop sobre Educação em Computação},
+  pages 488--498, Porto Alegre, RS, Brasil, 2023. SBC.
+\newblock \doi{10.5753/wei.2023.230244}.
+\newblock URL \url{https://sol.sbc.org.br/index.php/wei/article/view/24928}.
 
 \bibitem[das Neves(2025)]{anaSofia2025}
 Ana Sofia Coelho~Mendes das Neves.
