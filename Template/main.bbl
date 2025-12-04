@@ -1,4 +1,4 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{40}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -83,6 +83,14 @@ Lucas Camelo, Ingrid Silva, João Lima, Bruno Sousa, Suzane Santos, and
 \newblock URL
   \url{https://sol.sbc.org.br/index.php/capaihc/article/view/26884}.
 
+\bibitem[Center~for Universal~Design(2025)]{cud_ncsu}
+North Carolina State~University Center~for Universal~Design.
+\newblock Center for universal design.
+\newblock Website institucional, 2025.
+\newblock URL
+  \url{https://design.ncsu.edu/research/center-for-universal-design/}.
+\newblock Acesso em: 03 dez. 2025.
+
 \bibitem[Community(2025)]{figma_comunidade_website_project}
 Figma Community.
 \newblock My website project.
@@ -147,6 +155,14 @@ Figma.
 \newblock Website, 2024.
 \newblock URL \url{https://www.figma.com/ptbr/}.
 \newblock Acesso em: 03 dez. 2025.
+
+\bibitem[for Standardization(2011)]{iso25010_2011}
+International~Organization for Standardization.
+\newblock Iso/iec 25010:2011 – systems and software engineering: Systems and
+  software quality models.
+\newblock Website oficial ISO, 2011.
+\newblock URL \url{https://www.iso.org/standard/35733.html}.
+\newblock Última versão consultada em: 03 dez. 2025.
 
 \bibitem[{Forbes Brasil}(2021)]{forbes_nubank_2021}
 {Forbes Brasil}.
@@ -246,6 +262,17 @@ A.~Petrov{\v{c}}i{\v{c}}, S.~Taipale, A.~Rogelj, and D.~Van~der.
   \url{https://digital.gov.pt/estrategias/plano-de-acao-para-a-transicao-digital/01-capacitacao-e-inclusao-digital-das-pessoas/eu-sou-digital}.
 \newblock Acesso em: 03 dez. 2025.
 
+\bibitem[Rocha et~al.(2025)Rocha, Soares, Caldeira, Souza, Vilela, Valle, and
+  Silva]{wbots}
+Maria Rocha, Pietra Soares, Luiz Caldeira, Paulo Souza, Ricardo Vilela, Pedro
+  Valle, and Williamson Silva.
+\newblock Tecnologias de avaliação da experiência do usuário (ux) em
+  chatbots: Um mapeamento sistemático da literatura.
+\newblock In \emph{Anais do II Workshop sobre Bots na Engenharia de Software},
+  pages 21--30, Porto Alegre, RS, Brasil, 2025. SBC.
+\newblock \doi{10.5753/wbots.2025.15180}.
+\newblock URL \url{https://sol.sbc.org.br/index.php/wbots/article/view/36922}.
+
 \bibitem[Santos et~al.(2009)Santos, Andrade, and Bueno]{santos2009}
 F.~H. Santos, V.~M. Andrade, and O.~F.~A. Bueno.
 \newblock Envelhecimento: um processo multifatorial.
@@ -279,6 +306,28 @@ Anna Silva and Luis~E. Zárate.
 \newblock \doi{10.5753/sbbd_estendido.2025.247896}.
 \newblock URL
   \url{https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/37602}.
+
+\bibitem[Silva et~al.(2025)Silva, Duarte, Santos, Santos, Holanda, Melo,
+  Meneses, Soares, Oggione, Alves, Lins, Lacerda, and Santos]{silva2025dua}
+C.~F. dos~S. Silva, E.~M. da~S. Duarte, M.~M. de~B. Santos, P.~F.~dos Santos,
+  M.~J. F. dos~S. Holanda, S.~F.~S. Melo, A.~R. Meneses, M.~F. Soares, G.~B.
+  Oggione, O.~R. Alves, D.~A. dos~S. Lins, T.~R. dos~S. Lacerda, and C.~S.
+  Santos.
+\newblock Design universal para aprendizagem (dua) e tecnologia: criando
+  ambientes educacionais sem barreiras.
+\newblock \emph{Revista Internacional De Estudos Científicos}, 3\penalty0
+  (1):\penalty0 43--66, 2025.
+\newblock \doi{10.61571/riec.v3i1.169}.
+
+\bibitem[Stati and Sarmento(2021)]{stati_sarmento_2021}
+C.~Stati and C.~Sarmento.
+\newblock \emph{Experiência do usuário (UX)}.
+\newblock Editora Intersaberes, Curitiba, 2021.
+
+\bibitem[Toledo~Filho(2020)]{toledoFilho2020}
+João Cesar~Lopes Toledo~Filho.
+\newblock \emph{Experiência do usuário (UX)}.
+\newblock Senac, São Paulo, 2020.
 
 \bibitem[Trevisan et~al.(2025)Trevisan, Gonzalez, Diniz, and
   Cernev]{fgv_geografia_pix_2025}

@@ -5,10 +5,10 @@
 \contentsline {section}{\numberline {2.1}Dificuldades do Público Idoso}{7}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Digitalização dos Bancos}{7}{section.2.2}%
 \contentsline {subsubsection}{Lei Brasileira de Inclusão - LBI}{10}{figure.caption.5}%
-\contentsline {subsubsection}{Modelo de Acessibilidade em Governo Eletrônico - eMAG}{10}{figure.caption.5}%
+\contentsline {subsubsection}{Modelo de Acessibilidade em Governo Eletrônico - eMAG}{11}{figure.caption.5}%
 \contentsline {subsubsection}{Web Content Accessibility Guidelines - WCAG}{12}{figure.caption.7}%
 \contentsline {subsection}{\numberline {2.2.1}Conceitos utilizados}{14}{subsection.2.2.1}%
-\contentsline {chapter}{\numberline {3}Revisão da Literatura / Trabalhos Relacionados}{15}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Proposta}{16}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Conclusão}{17}{chapter.5}%
-\contentsline {chapter}{Referências}{18}{chapter*.9}%
+\contentsline {chapter}{\numberline {3}Revisão da Literatura / Trabalhos Relacionados}{16}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Proposta}{17}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusão}{18}{chapter.5}%
+\contentsline {chapter}{Referências}{19}{chapter*.9}%
