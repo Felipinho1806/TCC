@@ -10,45 +10,47 @@ Warning--entry type for "moura2019" isn't style-file defined
 Warning--entry type for "loiola2025" isn't style-file defined
 --line 491 of file references.bib
 Warning--I didn't find a database entry for "8890660"
-You've used 40 entries,
+Warning--empty year in apple_hig
+Warning--empty year in material_design
+You've used 45 entries,
             2773 wiz_defined-function locations,
-            847 strings with 15895 characters,
-and the built_in function-call counts, 19037 in all, are:
-= -- 1705
-> -- 1265
-< -- 35
-+ -- 439
-- -- 399
-* -- 1422
-:= -- 3015
-add.period$ -- 180
-call.type$ -- 40
-change.case$ -- 251
-chr.to.int$ -- 40
-cite$ -- 80
-duplicate$ -- 741
-empty$ -- 1435
-format.name$ -- 447
-if$ -- 3987
+            875 strings with 16766 characters,
+and the built_in function-call counts, 20885 in all, are:
+= -- 1892
+> -- 1326
+< -- 42
++ -- 462
+- -- 417
+* -- 1525
+:= -- 3298
+add.period$ -- 204
+call.type$ -- 45
+change.case$ -- 272
+chr.to.int$ -- 45
+cite$ -- 92
+duplicate$ -- 834
+empty$ -- 1605
+format.name$ -- 472
+if$ -- 4392
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 18
-newline$ -- 263
-num.names$ -- 160
-pop$ -- 571
+missing$ -- 19
+newline$ -- 296
+num.names$ -- 180
+pop$ -- 627
 preamble$ -- 1
-purify$ -- 213
+purify$ -- 229
 quote$ -- 0
-skip$ -- 638
+skip$ -- 706
 stack$ -- 0
-substring$ -- 404
-swap$ -- 79
-text.length$ -- 5
+substring$ -- 446
+swap$ -- 93
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 430
-warning$ -- 0
-while$ -- 150
+type$ -- 485
+warning$ -- 2
+while$ -- 168
 width$ -- 0
-write$ -- 622
-(There were 3 warnings)
+write$ -- 701
+(There were 5 warnings)

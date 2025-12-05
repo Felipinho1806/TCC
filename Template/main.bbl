@@ -1,9 +1,17 @@
-\begin{thebibliography}{40}
+\begin{thebibliography}{45}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Apple()]{apple_hig}
+Apple.
+\newblock Human interface guidelines.
+\newblock Diretrizes oficiais da Apple para design de interfaces.
+\newblock URL
+  \url{https://developer.apple.com/design/human-interface-guidelines/}.
+\newblock Acesso em: 03 dez. 2025.
 
 \bibitem[Batista(2025)]{batista2025}
 Maria Gabriele~Bezerra Batista.
@@ -156,6 +164,14 @@ Figma.
 \newblock URL \url{https://www.figma.com/ptbr/}.
 \newblock Acesso em: 03 dez. 2025.
 
+\bibitem[Figma(2025)]{figma_ui_vs_ux}
+Figma.
+\newblock Qual é a diferença entre ui e ux?
+\newblock Biblioteca de Recursos Figma, 2025.
+\newblock URL
+  \url{https://www.figma.com/pt-br/resource-library/diferenca-entre-ui-e-ux/}.
+\newblock Acesso em: 03 dez. 2025.
+
 \bibitem[for Standardization(2011)]{iso25010_2011}
 International~Organization for Standardization.
 \newblock Iso/iec 25010:2011 – systems and software engineering: Systems and
@@ -171,6 +187,13 @@ International~Organization for Standardization.
   \url{https://forbes.com.br/forbes-tech/2021/07/o-mundo-dos-unicornios-nubank/},
   2021.
 \newblock Acesso em: 15 nov. 2025.
+
+\bibitem[Google()]{material_design}
+Google.
+\newblock Material design.
+\newblock Diretrizes oficiais do Material Design.
+\newblock URL \url{https://m3.material.io/}.
+\newblock Acesso em: 03 dez. 2025.
 
 \bibitem[{IBGE}(2022)]{ibge2022}
 {IBGE}.
@@ -200,6 +223,13 @@ International~Organization for Standardization.
   \url{https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44033-pela-primeira-vez-mais-da-metade-da-populacao-acessa-a-internet-pela-tv},
   2025.
 \newblock Agência de Notícias IBGE, 24 jul. 2025. Acesso em: 15 nov. 2025.
+
+\bibitem[ISO(1998)]{iso9241_11_1998}
+ISO.
+\newblock Iso 9241-11: Ergonomic requirements for office work with visual
+  display terminals (vdts) -- part 11: Guidance on usability.
+\newblock Technical Report ISO 9241-11, International Organization for
+  Standardization, Geneva, Switzerland, 1998.
 
 \bibitem[Kachar(2010)]{kachar2010}
 Vitória Kachar.
@@ -272,6 +302,15 @@ Maria Rocha, Pietra Soares, Luiz Caldeira, Paulo Souza, Ricardo Vilela, Pedro
   pages 21--30, Porto Alegre, RS, Brasil, 2025. SBC.
 \newblock \doi{10.5753/wbots.2025.15180}.
 \newblock URL \url{https://sol.sbc.org.br/index.php/wbots/article/view/36922}.
+
+\bibitem[Rodrigues and Santos(2022)]{wics}
+Agatha Rodrigues and Simone Santos.
+\newblock Avaliação de usabilidade em aplicativos bancários móveis no
+  contexto do público idoso.
+\newblock In \emph{Anais do III Workshop sobre as Implicações da Computação
+  na Sociedade}, pages 101--107, Porto Alegre, RS, Brasil, 2022. SBC.
+\newblock \doi{10.5753/wics.2022.223350}.
+\newblock URL \url{https://sol.sbc.org.br/index.php/wics/article/view/20736}.
 
 \bibitem[Santos et~al.(2009)Santos, Andrade, and Bueno]{santos2009}
 F.~H. Santos, V.~M. Andrade, and O.~F.~A. Bueno.
