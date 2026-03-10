@@ -9,6 +9,6 @@
 \contentsline {subsubsection}{Web Content Accessibility Guidelines - WCAG}{12}{figure.caption.7}%
 \contentsline {subsection}{\numberline {2.2.1}Conceitos utilizados}{14}{subsection.2.2.1}%
 \contentsline {chapter}{\numberline {3}Revisão da Literatura / Trabalhos Relacionados}{17}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Proposta}{19}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Conclusão}{20}{chapter.5}%
-\contentsline {chapter}{Referências}{21}{chapter*.10}%
+\contentsline {chapter}{\numberline {4}Proposta}{20}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusão}{21}{chapter.5}%
+\contentsline {chapter}{Referências}{22}{chapter*.11}%

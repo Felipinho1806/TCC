@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1764969187.76445 "main.aux" "main.bbl" "main" 1770689789.44651 0
+["bibtex main"] 1773106361.88504 "main.aux" "main.bbl" "main" 1773106365.64155 0
   "./references.bib" 1764968741 19029 15c31f7a4299520b45f073fd516914b7 ""
   "C:/Users/fcnfe/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/plainnat.bst" 1284455456 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "main.aux" 1770689788 10977 4b434642400bb628e07cf94d9d461e8a "pdflatex"
+  "main.aux" 1773106364 11438 e3e39b94fe679d057abf5ce3546663f1 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1770689785.64441 "c:/Users/fcnfe/TCC/Template/main.tex" "main.pdf" "main" 1770689789.4474 0
+["pdflatex"] 1773106362.15014 "c:/Users/fcnfe/TCC/Template/main.tex" "main.pdf" "main" 1773106365.6423 0
   "C:/Users/fcnfe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764623429 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/fcnfe/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk" 1764623432 24152 3de113ec3eb4bf5052aec601b4878d75 ""
   "C:/Users/fcnfe/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1764623278 13333511 d22bdc05c308342a151644a4d034819b ""
@@ -296,7 +296,7 @@
   "c:/Users/fcnfe/TCC/Template/main.tex" 1764632761 1596 48e2c55c99ef07098d7ebdfa72276f46 ""
   "capitulos/1 - Introducao.tex" 1764632761 7219 13b88ef8ffca9596d0c685efbf7843d7 ""
   "capitulos/2 - Fundamentacao_teorica.tex" 1764962320 20068 4f246d96fdeb6782c2c9fc62717f033a ""
-  "capitulos/3 - Revisao.tex" 1770689783 1506 6392f3314636db99be60138a38ad3bcf ""
+  "capitulos/3 - Revisao.tex" 1773106360 2837 98301271cb143ac2ef488142c16635c2 ""
   "capitulos/4 - Proposta.tex" 1764632761 40 8f1025e389e42ce66a4b18e64f94cb1f ""
   "capitulos/5 - conclusao.tex" 1764632761 45 9da2a6fce8c6c8aaced6bcdaf4488237 ""
   "config/acronimos.tex" 1764632761 114 444fef5f250d7b57d112867e3d412d80 ""
@@ -313,13 +313,14 @@
   "imagens/graficos_censo_sexo_idade-faixas-populacionais-final.png" 1764632761 49251 6654971ff46340ae53a66b7f911f88e5 ""
   "imagens/iso.png" 1764968862 61016 bea70efcb5bd2e78e8ccb4a6c6b13e74 ""
   "imagens/mapa.png" 1764632761 36728 36fe9e563794eb9d95356158e2611741 ""
-  "main.aux" 1770689788 10977 4b434642400bb628e07cf94d9d461e8a "pdflatex"
-  "main.bbl" 1764969187 18119 d28ec289b3fbf325a4a30e62910a616a "bibtex main"
-  "main.lof" 1770689788 1349 e324aa5e7f547018c18e664d3e7b0709 "pdflatex"
-  "main.lot" 1770689788 226 941f5606a0c014e95b2b2cb33c2ed2ae "pdflatex"
-  "main.out" 1770689788 1388 6ab33419491826df566c779bafa98949 "pdflatex"
+  "imagens/tabela_egov.png" 1773105191 64306 8f392bc72ea72f85462b8ef3aab06a94 ""
+  "main.aux" 1773106364 11438 e3e39b94fe679d057abf5ce3546663f1 "pdflatex"
+  "main.bbl" 1773106362 18119 d28ec289b3fbf325a4a30e62910a616a "bibtex main"
+  "main.lof" 1773106364 1523 1cf2ab507ac827c498616f7ecb1bebc8 "pdflatex"
+  "main.lot" 1773106364 226 941f5606a0c014e95b2b2cb33c2ed2ae "pdflatex"
+  "main.out" 1773106364 1388 9474d6e7a67107c05b7af54cb6059def "pdflatex"
   "main.tex" 1764632761 1596 48e2c55c99ef07098d7ebdfa72276f46 ""
-  "main.toc" 1770689788 1045 8737b4daa49bda272987cc95ea4f6d66 "pdflatex"
+  "main.toc" 1773106364 1045 f08102d2c939bf8004dd7a1ae3e0d9d4 "pdflatex"
   "pre-textuais/abstract.tex" 1764632761 68 75059ae0dd1dc89b713677d95333abac ""
   "pre-textuais/agradecimentos.tex" 1764632761 48 8f9a44c6615192281234bd592ff0eb16 ""
   "pre-textuais/dedicatoria.tex" 1764632761 55 9193911d2aa1d9be6e24c4df805467c1 ""
