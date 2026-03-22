@@ -14,7 +14,7 @@ Warning--empty year in apple_hig
 Warning--empty year in material_design
 You've used 45 entries,
             2773 wiz_defined-function locations,
-            875 strings with 16766 characters,
+            874 strings with 16743 characters,
 and the built_in function-call counts, 20885 in all, are:
 = -- 1892
 > -- 1326

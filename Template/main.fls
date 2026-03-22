@@ -711,16 +711,21 @@ INPUT .\imagens\tabela_egov.png
 INPUT .\imagens\tabela_egov.png
 INPUT .\imagens\tabela_egov.png
 INPUT .\imagens\tabela_egov.png
-INPUT .\capitulos\4 - Proposta.tex
-INPUT .\capitulos\4 - Proposta.tex
-INPUT .\capitulos\4 - Proposta.tex
-INPUT .\capitulos\4 - Proposta.tex
-INPUT capitulos\4 - Proposta.tex
-INPUT .\capitulos\5 - conclusao.tex
-INPUT .\capitulos\5 - conclusao.tex
-INPUT .\capitulos\5 - conclusao.tex
-INPUT .\capitulos\5 - conclusao.tex
-INPUT capitulos\5 - conclusao.tex
+INPUT .\capitulos\4 - Metodologia.tex
+INPUT .\capitulos\4 - Metodologia.tex
+INPUT .\capitulos\4 - Metodologia.tex
+INPUT .\capitulos\4 - Metodologia.tex
+INPUT capitulos\4 - Metodologia.tex
+INPUT .\capitulos\5 - Proposta.tex
+INPUT .\capitulos\5 - Proposta.tex
+INPUT .\capitulos\5 - Proposta.tex
+INPUT .\capitulos\5 - Proposta.tex
+INPUT capitulos\5 - Proposta.tex
+INPUT .\capitulos\6 - conclusao.tex
+INPUT .\capitulos\6 - conclusao.tex
+INPUT .\capitulos\6 - conclusao.tex
+INPUT .\capitulos\6 - conclusao.tex
+INPUT capitulos\6 - conclusao.tex
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
