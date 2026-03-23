@@ -1,4 +1,4 @@
-\begin{thebibliography}{45}
+\begin{thebibliography}{49}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -172,6 +172,14 @@ Figma.
   \url{https://www.figma.com/pt-br/resource-library/diferenca-entre-ui-e-ux/}.
 \newblock Acesso em: 03 dez. 2025.
 
+\bibitem[Filho(2019)]{filho2019dsr}
+P.~R. Filho.
+\newblock Ciência do artificial e design science research.
+\newblock \emph{Revista Inovação}, 3\penalty0 (22), 2019.
+\newblock URL
+  \url{https://inovacao.ufrj.br/images/vol_22_ciencia_artificial_design_science_research_2019.pdf}.
+\newblock Acesso em: 23 mar. 2026.
+
 \bibitem[for Standardization(2011)]{iso25010_2011}
 International~Organization for Standardization.
 \newblock Iso/iec 25010:2011 – systems and software engineering: Systems and
@@ -194,6 +202,11 @@ Google.
 \newblock Diretrizes oficiais do Material Design.
 \newblock URL \url{https://m3.material.io/}.
 \newblock Acesso em: 03 dez. 2025.
+
+\bibitem[Hevner(2007)]{article}
+Alan Hevner.
+\newblock A three cycle view of design science research.
+\newblock \emph{Scandinavian Journal of Information Systems}, 19, 01 2007.
 
 \bibitem[{IBGE}(2022)]{ibge2022}
 {IBGE}.
@@ -235,6 +248,19 @@ ISO.
 Vitória Kachar.
 \newblock Envelhecimento e perspectivas de inclusão digital.
 \newblock \emph{Revista Kairós Gerontologia}, 13:\penalty0 131--148, nov 2010.
+
+\bibitem[Lacerda et~al.(2013)Lacerda, Dresch, Proença, and
+  Antunes~Júnior]{lacerda2013dsr}
+Daniel~Pacheco Lacerda, Aline Dresch, Adriano Proença, and José Antonio~Valle
+  Antunes~Júnior.
+\newblock Design science research: método de pesquisa para a engenharia de
+  produção.
+\newblock \emph{Gestão \& Produção}, 20\penalty0 (4):\penalty0 741--761,
+  2013.
+\newblock ISSN 0104-530X.
+\newblock URL
+  \url{http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-530X2013000400001}.
+\newblock Acesso em: 23 mar. 2026.
 
 \bibitem[Loiola(2025)]{loiola2025}
 Mateus~Gonçalves Loiola.
@@ -357,6 +383,12 @@ C.~F. dos~S. Silva, E.~M. da~S. Duarte, M.~M. de~B. Santos, P.~F.~dos Santos,
 \newblock \emph{Revista Internacional De Estudos Científicos}, 3\penalty0
   (1):\penalty0 43--66, 2025.
 \newblock \doi{10.61571/riec.v3i1.169}.
+
+\bibitem[Simon(1996)]{simon1996sciences}
+Herbert~A. Simon.
+\newblock \emph{The Sciences of the Artificial}.
+\newblock MIT Press, 3 edition, 1996.
+\newblock ISBN 978-0-262-19374-0.
 
 \bibitem[Stati and Sarmento(2021)]{stati_sarmento_2021}
 C.~Stati and C.~Sarmento.

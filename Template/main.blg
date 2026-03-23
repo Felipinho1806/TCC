@@ -12,45 +12,45 @@ Warning--entry type for "loiola2025" isn't style-file defined
 Warning--I didn't find a database entry for "8890660"
 Warning--empty year in apple_hig
 Warning--empty year in material_design
-You've used 45 entries,
+You've used 49 entries,
             2773 wiz_defined-function locations,
-            874 strings with 16743 characters,
-and the built_in function-call counts, 20885 in all, are:
-= -- 1892
-> -- 1326
-< -- 42
-+ -- 462
-- -- 417
-* -- 1525
-:= -- 3298
-add.period$ -- 204
-call.type$ -- 45
-change.case$ -- 272
-chr.to.int$ -- 45
-cite$ -- 92
-duplicate$ -- 834
-empty$ -- 1605
-format.name$ -- 472
-if$ -- 4392
+            901 strings with 17463 characters,
+and the built_in function-call counts, 22424 in all, are:
+= -- 2035
+> -- 1395
+< -- 45
++ -- 487
+- -- 438
+* -- 1639
+:= -- 3549
+add.period$ -- 222
+call.type$ -- 49
+change.case$ -- 291
+chr.to.int$ -- 49
+cite$ -- 100
+duplicate$ -- 913
+empty$ -- 1739
+format.name$ -- 497
+if$ -- 4711
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 19
-newline$ -- 296
-num.names$ -- 180
-pop$ -- 627
+missing$ -- 24
+newline$ -- 322
+num.names$ -- 196
+pop$ -- 658
 preamble$ -- 1
-purify$ -- 229
+purify$ -- 244
 quote$ -- 0
-skip$ -- 706
+skip$ -- 761
 stack$ -- 0
-substring$ -- 446
-swap$ -- 93
+substring$ -- 479
+swap$ -- 98
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 485
+type$ -- 524
 warning$ -- 2
-while$ -- 168
+while$ -- 182
 width$ -- 0
-write$ -- 701
+write$ -- 765
 (There were 5 warnings)
