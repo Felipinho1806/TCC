@@ -1,4 +1,4 @@
-\begin{thebibliography}{49}
+\begin{thebibliography}{52}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -269,6 +269,14 @@ Mateus~Gonçalves Loiola.
 \newblock Trabalho de Conclusão de Curso (Graduação em Engenharia de
   Software) -- Universidade Federal do Ceará, Campus de Quixadá.
 
+\bibitem[Marques et~al.(2020)Marques, Moreira, Jorge, Rabelo, Carvalho, and
+  Felipe]{marques2020usability}
+A.~D. Marques, T.~M. Moreira, T.~V. Jorge, S.~M. Rabelo, R.~E. Carvalho, and
+  G.~F. Felipe.
+\newblock Usability of a mobile application on diabetic foot self-care.
+\newblock \emph{Revista Brasileira de Enfermagem}, 73\penalty0 (4):\penalty0
+  e20180862, 2020.
+
 \bibitem[Moura(2019)]{moura2019}
 A.~A.~F. Moura.
 \newblock Mobilidade urbana e envelhecimento: desafios enfrentados por idosos
@@ -384,6 +392,14 @@ C.~F. dos~S. Silva, E.~M. da~S. Duarte, M.~M. de~B. Santos, P.~F.~dos Santos,
   (1):\penalty0 43--66, 2025.
 \newblock \doi{10.61571/riec.v3i1.169}.
 
+\bibitem[Silva et~al.(2024)Silva, Santos, Sousa, Gouveia, Oliveira, Almeida,
+  et~al.]{silva2024quali}
+L.~V. Silva, J.~S. Santos, M.~M. Sousa, B.~L. Gouveia, S.~H. Oliveira, A.~A.
+  Almeida, et~al.
+\newblock Evaluation of the usability of the quali+ mobile application for
+  people with high blood pressure.
+\newblock \emph{Revista Gaúcha de Enfermagem}, 45:\penalty0 e20230058, 2024.
+
 \bibitem[Simon(1996)]{simon1996sciences}
 Herbert~A. Simon.
 \newblock \emph{The Sciences of the Artificial}.
@@ -410,6 +426,19 @@ F.~M. Trevisan, L.~Gonzalez, E.~H. Diniz, and A.~Cernev.
   2025.
 \newblock Centro de Estudos de Microfinanças e Inclusão Financeira
   (FGVcemif), FGV EAESP. Acesso em: 15 nov. 2025.
+
+\bibitem[Wangenheim et~al.(2014)Wangenheim, Borgatto, Nunes, Lacerda, Oliveira,
+  Krone, et~al.]{wangenheim2014sure}
+Christiane Gresse~von Wangenheim, Adriano~Ferreti Borgatto, Juliana~Vargas
+  Nunes, Tiago~Cadorso Lacerda, Rafael~J. Oliveira, Christian Krone, et~al.
+\newblock Sure: uma proposta de questionário e escala para avaliar a
+  usabilidade de aplicações para smartphones pós-teste de usabilidade.
+\newblock In \emph{Interaction South America (ISA 14) - Conferencia
+  Latinoamericana de Diseño de Interacción}, Buenos Aires, 2014. Universidad
+  Católica Argentina.
+\newblock URL
+  \url{https://repositorio.uca.edu.ar/bitstream/123456789/7958/1/sure-proposta-questionario-escala.pdf}.
+\newblock Acesso em: 23 mar. 2026.
 
 \bibitem[Weiss(2019)]{Weiss2019}
 M.~C. Weiss.

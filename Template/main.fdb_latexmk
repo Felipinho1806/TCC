@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1774241666.27846 "main.aux" "main.bbl" "main" 1774241670.04827 0
-  "./references.bib" 1774240858 20397 1f54269f7a0793e882a7e5af5eb3cf91 ""
+["bibtex main"] 1774320459.99412 "main.aux" "main.bbl" "main" 1774320467.62723 0
+  "./references.bib" 1774317912 21904 9c3828d7cc056860aa5ff832d697992e ""
   "C:/Users/fcnfe/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/plainnat.bst" 1284455456 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "main.aux" 1774241669 12516 352d4985e9073fd96538beb88442dcd6 "pdflatex"
+  "main.aux" 1774320466 13400 656e5093ca1a419d3a9dd8db0ca06174 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1774241666.54462 "c:/Users/fcnfe/TCC/Template/main.tex" "main.pdf" "main" 1774241670.04929 0
+["pdflatex"] 1774320464.02102 "c:/Users/fcnfe/TCC/Template/main.tex" "main.pdf" "main" 1774320467.62803 0
   "C:/Users/fcnfe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764623429 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/fcnfe/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk" 1764623432 24152 3de113ec3eb4bf5052aec601b4878d75 ""
   "C:/Users/fcnfe/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1764623278 13333511 d22bdc05c308342a151644a4d034819b ""
@@ -297,7 +297,7 @@
   "capitulos/1 - Introducao.tex" 1764632761 7219 13b88ef8ffca9596d0c685efbf7843d7 ""
   "capitulos/2 - Fundamentacao_teorica.tex" 1764962320 20068 4f246d96fdeb6782c2c9fc62717f033a ""
   "capitulos/3 - Revisao.tex" 1773187875 3914 a28b074b9d1c77a34d436820bdb6dae2 ""
-  "capitulos/4 - Metodologia.tex" 1774241662 4930 d8ec95f2fb98a1b45b17d63008d85961 ""
+  "capitulos/4 - Metodologia.tex" 1774320461 6833 08b34e4b851a4b2fe912c06ee077d617 ""
   "capitulos/5 - Proposta.tex" 1774141525 40 8f1025e389e42ce66a4b18e64f94cb1f ""
   "capitulos/6 - conclusao.tex" 1764632761 45 9da2a6fce8c6c8aaced6bcdaf4488237 ""
   "config/acronimos.tex" 1764632761 114 444fef5f250d7b57d112867e3d412d80 ""
@@ -315,14 +315,15 @@
   "imagens/graficos_censo_sexo_idade-faixas-populacionais-final.png" 1764632761 49251 6654971ff46340ae53a66b7f911f88e5 ""
   "imagens/iso.png" 1764968862 61016 bea70efcb5bd2e78e8ccb4a6c6b13e74 ""
   "imagens/mapa.png" 1764632761 36728 36fe9e563794eb9d95356158e2611741 ""
+  "imagens/tabela-SURE.png" 1774319616 71567 8121c7d291c87f9b7bfd65ed0d6d043e ""
   "imagens/tabela_egov.png" 1773105191 64306 8f392bc72ea72f85462b8ef3aab06a94 ""
-  "main.aux" 1774241669 12516 352d4985e9073fd96538beb88442dcd6 "pdflatex"
-  "main.bbl" 1774241666 19361 79b56828472bd1dd0e97dca31b43487d "bibtex main"
-  "main.lof" 1774241669 1712 4a03bee932dd2d7a32fa252d7f5eb8a7 "pdflatex"
-  "main.lot" 1774241669 246 64e7496675d28e52bc94adce80622908 "pdflatex"
-  "main.out" 1774241669 1487 f0ffb3860fd9dc046fe4b6c3d5d59008 "pdflatex"
+  "main.aux" 1774320466 13400 656e5093ca1a419d3a9dd8db0ca06174 "pdflatex"
+  "main.bbl" 1774320460 20884 64f4bcab9767df87f43f87dc1fea7208 "bibtex main"
+  "main.lof" 1774320466 1876 225f0c4477027642b8b2eeeae9b14221 "pdflatex"
+  "main.lot" 1774320466 246 64e7496675d28e52bc94adce80622908 "pdflatex"
+  "main.out" 1774320466 1487 9d8955a5e3adf25819abb64a83c07ce9 "pdflatex"
   "main.tex" 1774141876 1631 59606ceb4a54c783a42f4ccbff88c513 ""
-  "main.toc" 1774241669 1113 163b9ccb6cd4570e23f0faf8800cb7f4 "pdflatex"
+  "main.toc" 1774320466 1113 7797401d97c74ab91a3919e648e8f7b3 "pdflatex"
   "pre-textuais/abstract.tex" 1764632761 68 75059ae0dd1dc89b713677d95333abac ""
   "pre-textuais/agradecimentos.tex" 1764632761 48 8f9a44c6615192281234bd592ff0eb16 ""
   "pre-textuais/dedicatoria.tex" 1764632761 55 9193911d2aa1d9be6e24c4df805467c1 ""
