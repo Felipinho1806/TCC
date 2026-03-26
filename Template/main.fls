@@ -722,6 +722,8 @@ INPUT .\imagens\dsr-teste.png
 INPUT .\imagens\dsr-teste.png
 INPUT .\imagens\dsr-teste.png
 INPUT .\imagens\dsr-teste.png
+INPUT C:\Users\fcnfe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Users\fcnfe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT .\imagens\tabela-SURE.png
 INPUT .\imagens\tabela-SURE.png
 INPUT .\imagens\tabela-SURE.png
@@ -747,6 +749,8 @@ INPUT .\main.out
 INPUT .\main.out
 INPUT C:\Users\fcnfe\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
 INPUT C:\Users\fcnfe\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
+INPUT C:\Users\fcnfe\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\fcnfe\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\fcnfe\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\fcnfe\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\fcnfe\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb

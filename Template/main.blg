@@ -9,48 +9,50 @@ Warning--entry type for "moura2019" isn't style-file defined
 --line 221 of file references.bib
 Warning--entry type for "loiola2025" isn't style-file defined
 --line 491 of file references.bib
+Warning--entry type for "hickmann2025etarismo" isn't style-file defined
+--line 1059 of file references.bib
 Warning--I didn't find a database entry for "8890660"
 Warning--empty year in apple_hig
 Warning--empty year in material_design
-You've used 52 entries,
+You've used 54 entries,
             2773 wiz_defined-function locations,
-            920 strings with 18507 characters,
-and the built_in function-call counts, 24450 in all, are:
-= -- 2199
-> -- 1582
-< -- 45
-+ -- 550
-- -- 498
-* -- 1835
-:= -- 3880
-add.period$ -- 234
-call.type$ -- 52
-change.case$ -- 318
-chr.to.int$ -- 52
-cite$ -- 106
-duplicate$ -- 979
-empty$ -- 1863
-format.name$ -- 560
-if$ -- 5120
+            932 strings with 18858 characters,
+and the built_in function-call counts, 25037 in all, are:
+= -- 2247
+> -- 1602
+< -- 47
++ -- 558
+- -- 504
+* -- 1866
+:= -- 3972
+add.period$ -- 239
+call.type$ -- 54
+change.case$ -- 326
+chr.to.int$ -- 54
+cite$ -- 110
+duplicate$ -- 1014
+empty$ -- 1927
+format.name$ -- 568
+if$ -- 5245
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 27
-newline$ -- 339
-num.names$ -- 208
-pop$ -- 709
+missing$ -- 29
+newline$ -- 348
+num.names$ -- 216
+pop$ -- 732
 preamble$ -- 1
-purify$ -- 268
+purify$ -- 274
 quote$ -- 0
-skip$ -- 815
+skip$ -- 841
 stack$ -- 0
-substring$ -- 539
-swap$ -- 101
+substring$ -- 543
+swap$ -- 103
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 557
+type$ -- 574
 warning$ -- 2
-while$ -- 193
+while$ -- 199
 width$ -- 0
-write$ -- 809
-(There were 5 warnings)
+write$ -- 833
+(There were 6 warnings)

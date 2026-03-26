@@ -1,4 +1,4 @@
-\begin{thebibliography}{52}
+\begin{thebibliography}{54}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -208,6 +208,11 @@ Alan Hevner.
 \newblock A three cycle view of design science research.
 \newblock \emph{Scandinavian Journal of Information Systems}, 19, 01 2007.
 
+\bibitem[Hickmann(2025)]{hickmann2025etarismo}
+Lucas~Feksa Hickmann.
+\newblock Etarismo e ux: um estudo exploratório sobre o design de interfaces
+  para adultos 65+, 2025.
+
 \bibitem[{IBGE}(2022)]{ibge2022}
 {IBGE}.
 \newblock Número de idosos na população do país cresceu 57,4\% em 12 anos.
@@ -276,6 +281,11 @@ A.~D. Marques, T.~M. Moreira, T.~V. Jorge, S.~M. Rabelo, R.~E. Carvalho, and
 \newblock Usability of a mobile application on diabetic foot self-care.
 \newblock \emph{Revista Brasileira de Enfermagem}, 73\penalty0 (4):\penalty0
   e20180862, 2020.
+
+\bibitem[Moore(2010)]{moore2010statistics}
+David~S. Moore.
+\newblock \emph{The Basic Practice of Statistics}.
+\newblock W. H. Freeman and Company, New York, 5 edition, 2010.
 
 \bibitem[Moura(2019)]{moura2019}
 A.~A.~F. Moura.
